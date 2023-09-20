@@ -1,0 +1,26 @@
+---
+title: "MİLLÎ EĞİTİM BAKANLIĞI"
+subtitle: "Öğretmen Yetiştirme ve Geliştirme Genel Müdürlüğü"
+author: "Ölçme ve Değerlendirme Eğitimi"
+date: "21/09/2023"
+---
+
+
+`r fontawesome::fa(name = "link")`: Kubra Atalay Kabasakal
+
+```{r echo = FALSE, out.width ="15%"}
+knitr::include_graphics("img/hacettepe.PNG")
+
+```
+- Eğitim Fakültesi, Öğretim Üyesi [Öğretim Üyesi](https://avesis.hacettepe.edu.tr/katalay)
+
+<br>
+
+
+
+## Günün Planı
+
+-   Test Geliştirme Asamaları
+1.  09:30 -  11:00 -  [Madde İstatistikleri](01.html)
+2.  11:15 -  12:45 -  [Madde Analizi Örnekleri](ORNEKSORULAR.pdf)
+4.  14:00 - 15:30  -  [Test İstatistikleri](02.html)

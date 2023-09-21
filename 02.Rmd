@@ -520,11 +520,158 @@ Ortalama dağılımın denge noktası olduğundan, ortalamanın üstündeki uzak
 
 
 
-
----
 ## **Standart sapma / Varyans** {.smaller}
 
 ![](img/evrendegiskenligi.png)
 
 
 - Yetişkinlerin boy uzunlukları evreni normal bir dağılım gösterir. Bu evrenden bir örneklem seçilirse, uzunlukları ortalamaya yakın bireylerin örneklemde yer alma şansı daha yüksektir. Sonuç olarak örneklemdeki puanlar evrendeki puanlardan daha az yayılım göstereceklerdir. 
+
+
+
+## **Standart sapma / Varyans**
+
+![](img/dagilimlar.png)
+
+**Standart sapma ve varyans ile dağılımın sivriliği arasında bir ilişki vardır.**
+
+-   Standart sapma ve varyans değeri düştükçe, puanlar arasındaki fark azalır, dolayısıyla dağılımın heterojenliği azalır ve dağılım sivrileşir.
+-   Standart sapma ve varyans değeri arttıkça, puanlar arasındaki fark artar, dolayısıyla dağılımın heterojenliği artar ve dağılım basıklaşır.
+
+
+# Normal Dağılım
+
+**Eğitimde ve psikolojideki değişkenlerin çoğu, evrende normal dağılıma sahip oldugu varsayilir.**
+
+**Normal dağılım eğrisi simetrik bir eğridir.**
+
+-   Mod, medyan ve aritmetik ortalama birbirine eşit ve dağılımın tam orta noktasındadır.
+-   Ölçme sonuçlarının büyük bir kısmı orta kısımda yani merkezi eğilim ölçüsünün etrafında toplanır.
+-   Orta kısımdan sağa ve sola gidildikçe, yığılmalar önce yavaş yavaş sonra hızlı bir şekilde düşerek iki uçta kuyruk oluşturur.
+
+
+## Normal Dağılım
+
+![](img/normaldagilim.png)
+
+
+
+
+- Normal dağılım istatistikteki en önemli dağılımdır.
+Bir cok fiziksel, psikoloji, psikomotor karekterlerin ölçümleri normal dağılım gösterir.
+Örnek: Çocukların reaksiyon hızları, boy
+
+- Normal dağılım göstermeyen ölçümler: Yas, kişilerin eğitim düzeyleri,mdin, ırk
+
+- Ozellik: Herhangi bir dağılımı oluşturan her bir gözleme sabit bir sayı eklenirse dağılımın şekli degişmez. Benzer şekilde her bir gözlem belirli bir sayı ile çarpılır ya
+da bölünürse dağılımın şekli değişmez.
+
+
+## Standart Puanlar
+
+-   Farklı dağılımlara sahip gruplardaki bireylerin ölçme sonuçlarını birbiriyle arşılaştırabilmek için dağılımların merkezi eğilim ve değişim ölçülerinin birbirine eşit olması gerekir.
+
+-   Eğer iki dağılımın ortalaması ve standart sapması birbirinden farklıysa, bu dağılımların aynı ortalama ve standart sapmaya sahip bir dağılıma dönüştürülmesi gerekir.
+
+-   Böyle bir ölçme ölçme sonuçlarının yorumlanmasını kolaylaştırır, farklı dağılımlardaki ölçme sonuçlarının birbiriyle karşılaştırılabilmesine olanak sağlar.
+
+
+## Standart Puanlar
+
+-   Herhangi bir dağılımın aritmetik ortalaması ve standart sapması biliniyorsa bu dağılımı oluşturan gözlemlerin birbirlerine göre dağılımın neresinde yer aldıklarını kestirebiliriz.
+
+-   Standart puanları kullanırız çünkü standart puanlar kullanarak yorumlamak daha kolaydır.
+
+-   Standart puanların aritmetik ortalamaları ve standart sapmaları hep aynıdır, değişmez.(örnek, z-puan için ortalama 0 standart sapma 1'dir.
+
+
+## Standart Puanlar
+
+-   Gözlemleri standart puanlara çevirildiginde dağılımın şekli değişmez.
+
+-   Standart puanlar yorumu kolaylaştırır.
+
+-   Örneğin 6 yaşında bir çocuk icin 20 kilo 1.30 cm dediğimizde bu cocuğun diğer çocuklara karşı zayıf mı şisman mı olduğunu kestiremeyiz.
+
+-   Ama aynı çocuğun boy ve kilosunu standart puan olarak ifade edersek bu bize çocuğun diğer çocuklara kıyasla nasıl olduğunu gösterir.
+
+
+## Z-puanı
+
+**Z Puanı:** Bireyin grubun aritmetik ortalamasının kaç standart sapma üzerinde veya altında olduğunu belirten puanlardır.
+
+-   Grubun Ortalaması = 70
+-   Grubun Standart Sapması = 20
+
+90 puan alan bir birey ortalamanın 90-70=20 puan yani 1 standart sapma üzerinde puan almıştır. Böylece bu bireyin Z puanı 1´e eşittir.
+
+50 puan alan bir birey ortalamanın 50-70=-20 puan yani 1standart sapma altında puan almıştır. Böylece bu bireyin Z puanı -1´e eşittir.
+
+
+## T-puanı
+
+Z puanları zaman zaman eksi değerler alabilmektedirler. Bu değerlerin eğitimde kullanışlı olmaması nedeniyle, puanlar bir başka standart puan olan T puanına dönüştürülür.
+
+**T Puanı:** Aritmetik ortalaması 50, standart sapması 10 olan puanlardır.
+
+T Puanı = 50 + (10*Z)
+
+Bir öğrencinin Z puanı = 1,2 T puanı = 50 + (10*1,2) = 50 + 12 = 62
+
+## Standart Puanlar
+
+| Sınav | Aritmetik Ortalama | Standart Sapma | Ali´nin Puanı | Z Puanı | T Puanı |
+|-------|--------------------|----------------|---------------|---------|---------|
+| I     | 55                 | 15             | 70            |         |         |
+| II    | 60                 | 10             | 75            |         |         |
+| III   | 50                 | 5              | 40            |         |         |
+| IV    | 65                 | 20             | 65            |         |         |
+| V     | 70                 | 10             | 90            |         |         |
+
+
+## Standart Puanlar
+
+| Sınav | Aritmetik Ortalama | Standart Sapma | Ali´nin Puanı | Z Puanı | T Puanı |
+|-------|--------------------|----------------|---------------|---------|---------|
+| I     | 55                 | 15             | 70            | 1       | 60      |
+| II    | 60                 | 10             | 75            | 1.5     | 65      |
+| III   | 50                 | 5              | 40            | -2      | 30      |
+| IV    | 65                 | 20             | 65            | 0       | 50      |
+| V     | 70                 | 10             | 90            | 2       | 70      |
+
+
+
+## Mutlak Başarı Oranı
+
+Mutlak başarı oranı, ölçme aracından bireyin aldığı değerin, ölçme sonucunda alınabilecek en yüksek değer bölümü ile elde edilir.
+
+MBO = X / XAEY
+
+Mutlak başarı oranının yüz üzerinden ifade edilebilmesi için mutlak başarı oranı 100 ile çarpılır, elde edilen sonuca mutlak başarı yüzdesi adı verilir.
+
+MBY = MBO\*100
+
+
+## Mutlak Başarı Oranı
+
+|       |             |              |               |
+|-------|-------------|--------------|---------------|
+| Sınav | Soru Sayısı | Doğru Sayısı | Başarı Düzeyi |
+| I     | 20          | 8            |               |
+| II    | 40          | 30           |               |
+| III   | 30          | 15           |               |
+| IV    | 50          | 30           |               |
+| V     | 40          | 14           |               |
+
+
+## Mutlak Başarı Oranı
+
+| Sınav | Soru Sayısı | Doğru Sayısı | Başarı Düzeyi |
+|-------|-------------|--------------|---------------|
+| I     | 20          | 8            | 0.40          |
+| II    | 40          | 30           | 0.75          |
+| III   | 30          | 15           | 0.50          |
+| IV    | 50          | 30           | 0.60          |
+| V     | 40          | 14           | 0.35          |
+
+## Teşekkürler
